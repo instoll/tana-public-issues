@@ -1,9 +1,11 @@
 # Tana Public Issues
 
 Thank you for using [Tana](https://get.tana.app)!
+
 This repository is a place where you can post questions, issues and feature requests.
 
 Please note that this repository is **PUBLICLY AVAILABLE AND EVERYONE IN THE INTERNET COULD READ ENTIRE CONTENTS**.
+
 Drop us an email to support@tana.app if you have any questions that you feel inappropriate to post in this repository.
 
 ## Stories
